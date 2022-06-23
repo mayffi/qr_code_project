@@ -1,0 +1,45 @@
+
+body{
+    background-color: #d6e2f0;
+    text-align: center;
+}
+
+img{
+    width: 80%;
+    margin: 10px 20px 10px 20px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    position: relative;
+
+}
+
+
+.container{
+    width: 50%;
+    height: 0;
+    overflow: 0; /*To hide any content that overflows from the divs;*/
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    position: relative;
+    left: 25%;
+    border-radius: 25px;
+    min-height: 768px;
+
+}
+
+
+.writing{
+    position: relative;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+    
+}
+
+.attribution 
+{ font-size: 11px; 
+text-align: center;
+padding-top: 20px;
+padding-bottom: 10px; }
+.attribution a 
+{ color: hsl(228, 45%, 44%); }
